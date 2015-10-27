@@ -1,0 +1,10 @@
+E:\Project\TestLoginGmail\TestLoginGmail\bin\Debug\TestLoginGmail.exe
+E:\Project\TestLoginGmail\TestLoginGmail\bin\Debug\TestLoginGmail.pdb
+E:\Project\TestLoginGmail\TestLoginGmail\obj\Debug\TestLoginGmail.csprojResolveAssemblyReference.cache
+E:\Project\TestLoginGmail\TestLoginGmail\obj\Debug\TestLoginGmail.Form1.resources
+E:\Project\TestLoginGmail\TestLoginGmail\obj\Debug\TestLoginGmail.FormLogin.resources
+E:\Project\TestLoginGmail\TestLoginGmail\obj\Debug\TestLoginGmail.Properties.Resources.resources
+E:\Project\TestLoginGmail\TestLoginGmail\obj\Debug\TestLoginGmail.csproj.GenerateResource.Cache
+E:\Project\TestLoginGmail\TestLoginGmail\obj\Debug\TestLoginGmail.exe.licenses
+E:\Project\TestLoginGmail\TestLoginGmail\obj\Debug\TestLoginGmail.exe
+E:\Project\TestLoginGmail\TestLoginGmail\obj\Debug\TestLoginGmail.pdb
